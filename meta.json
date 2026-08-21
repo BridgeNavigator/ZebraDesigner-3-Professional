@@ -1,0 +1,29 @@
+{
+  "repo": "zebradesigner-3-professional",
+  "product": "ZebraDesigner 3 Professional",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://zebradesigner.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "zebradesigner",
+    "label-design",
+    "barcode-labels",
+    "thermal-printer",
+    "inventory-labels",
+    "warehouse-labels",
+    "retail-printing",
+    "label-software",
+    "zebradesigner-setup-failed-fix",
+    "how-to-install-zebradesigner",
+    "zebradesigner-3-windows",
+    "printing-tools",
+    "windows-tools",
+    "retail-utility"
+  ],
+  "stars_cache": 16,
+  "nexpath_slug": "zebradesigner",
+  "nexpath_app_name": "ZebraDesigner"
+}
